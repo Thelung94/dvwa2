@@ -1,4 +1,4 @@
 <?php
-echo "ddd";
+echo $_GET['url'];
 
 ?>
